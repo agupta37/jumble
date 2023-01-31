@@ -5,7 +5,7 @@ provided letters, as well as true anagrams that use every letter.
 
 ### How to run the code
 
-Navigate to **jumble_solver.py** and run the following command:
+Navigate to inside **jumble folder** and run the following command:
 
 `python main.py --word [EXAMPLE WORD]`
 
